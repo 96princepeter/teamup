@@ -1,20 +1,16 @@
 <?php
 
 $servername="localhost";
-$password="";
 $username="root";
-$dbname="orisys_project";
+$password="";
+$dBname="orisys";
 
-$conn=new mysqli($servername,$username,$password,$dbname);
+$conn=new mysqli($servername,$username,$password,$dBname);
 if($conn->connect_error)
 {
-	die("connection error".$conn->connect_error);
+	die("Connection error".$conn->connect_error);
 }
-else
-{
+
+ 
 	
-}
-
-
-
 ?>
