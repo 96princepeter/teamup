@@ -1,4 +1,4 @@
-<center><h6 style="background-color:orange;">&copy 2018-2019 company.inc</h6></center>
+<center><h3 style="background-color:orange;margin-top:180px">&copy 2018-2019 company.inc</h3></center>
 </body>
 
 </html>
